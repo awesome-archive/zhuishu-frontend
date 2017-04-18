@@ -6,6 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <p>This is my first react App</p>
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
